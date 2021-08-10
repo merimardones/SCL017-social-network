@@ -10,7 +10,7 @@ export default () => {
               </nav>
 
               <div class="title-students">
-                  <img id="symbol-1" class="logo" src="./src/css/img_app/chevronLS.png" alt="logo">
+                  <img id="symbol-1" class="logo" src="./src/css/img_app/chevronLS.png./src/css/img_app/chevronLS.png" alt="logo">
                   <h1 class="students"> <span class="chevron left"></span> Laboratoria Students<span
                       class="chevron right"></span> </h1>
                   <h2 class="title-two">Una red para todas</h2>
